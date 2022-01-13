@@ -1,0 +1,3 @@
+#Scala #akka @ApacheSpark
+
+* Bump logback dependency version to address CVE-2021-42550.
